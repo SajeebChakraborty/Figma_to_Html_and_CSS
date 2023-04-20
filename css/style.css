@@ -1,0 +1,284 @@
+.SignIn {
+    position: relative;
+    width: 430px;
+    height: 932px;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+  }
+  .Frame-1 {
+   
+    position: absolute;
+    width: 127px;
+    height: 127px;
+    left: 151px;
+    top: 104px;
+
+
+    background: #A7A7A7;
+    border-radius: 102px;
+  }
+  .Sign-in-to-your-account {
+    position: absolute;
+    width: 400px;
+   
+    height: 30px;
+    left: 81px;
+    top: 281px;
+
+    margin-left: 20px;
+
+
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #424242;
+  }
+
+  .Frame-2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 358px;
+    height: 58px;
+    left: 36px;
+    top: 377px;
+    
+    border: 1px solid #E0E0E0;
+    border-radius: 5px;
+  }
+
+  .Enter-your-email {
+        
+    position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 21px;
+    top: 21px;
+    text-transform:capitalize;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #757575;
+  }
+
+  .Frame-3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 358px;
+    height: 58px;
+    left: 36px;
+    top: 465px;
+    
+    border: 1px solid #E0E0E0;
+    border-radius: 5px;
+  }
+
+  .Enter-your-password {
+    position: absolute;
+    width: 160px;
+    height: 16px;
+    left: 21px;
+    top: 21px;
+    text-transform:capitalize;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+color: #757575;
+  }
+  .Frame-4 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 36px;
+    top: 549px;
+    
+    background: #FFFFFF;
+    border: 1px solid #43A047;
+    border-radius: 3px;
+  }
+
+  .Remember-me {
+   
+    position: absolute;
+    width: 112px;
+    height: 16px;
+    left: 71px;
+    top: 552px;
+
+    margin-left: -10px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #43A047;
+  }
+
+  .Forgot-Password {
+  
+    position: absolute;
+    width: 144px;
+    height: 16px;
+    left: 297px;
+    top: 552px;
+
+    margin-left: -35px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #43A047;
+
+  }
+  .Frame-5 {
+    position: absolute;
+width: 358px;
+height: 50px;
+left: 36px;
+top: 619px;
+
+background: #43A047;
+border-radius: 5px;
+  }
+
+  .Sign-In {
+    position: absolute;
+    width: 77px;
+    height: 19px;
+    left: 150px;
+    top: 16px;
+
+    
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+  }
+  .line7{
+
+    position: absolute;
+    width: 158px;
+    height: 0px;
+    left: 194px;
+    top: 700px;
+
+    transform: rotate(180deg);
+
+  }
+  .OR{
+
+        
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    left: 204px;
+    top: 691px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    color: #757575;
+
+
+  }
+
+  .line6{
+
+        
+    position: absolute;
+    width: 158px;
+    height: 0px;
+    left: 236px;
+    top: 701px;
+
+
+  }
+  .Frame-6{
+
+
+    position: absolute;
+    width: 358px;
+    height: 50px;
+    left: 36px;
+    top: 732px;
+
+    filter: drop-shadow(0px 0px 4px rgba(117, 117, 117, 0.25));
+
+  }
+  .Sign-up-with-Google{
+
+    position: absolute;
+    width: 171px;
+    height: 22.64px;
+    left: 148px;
+    top: 744px;
+
+    margin-top: -750px;
+    margin-left: -50px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: -0.333333px;
+    text-transform: uppercase;
+
+    color: #424242;
+
+
+  }
+  .Frame-7{
+
+
+    position: absolute;
+    width: 262px;
+    height: 16px;
+    left: 84px;
+    top: 812px;
+
+    margin-top: -770px;
+    margin-left: -30px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #424242;
+
+
+
+  }
